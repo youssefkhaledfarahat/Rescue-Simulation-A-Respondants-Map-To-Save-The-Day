@@ -1,1 +1,3 @@
-# Rescue-Simulation-A-Respondants-Map-To-Save-The-Day-
+# Rescue-Simulation-A-Respondants-Map-To-Save-The-Day
+
+In this project we created a simple grid for respondants to navigate the disasters that might occur in a "city", in a fun and interactive way to be solved by children in a young age, with huge potential to be updated and reshaped by professionals in the fields of firefighting, ambulance calls, and law enforcement. The simulation was done using a 10x10 grid that generates a set of building, individuals, and gas pipes. The simulation works in cycles (turns), and each turn the simualtion creates a different type of disaster where a user has to intelligently divide the forces to tackle these events, based on distance and availability of the unit itself
